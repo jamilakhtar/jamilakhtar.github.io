@@ -1,12 +1,12 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jamil
+title: Muhammad Jamil Akhtar
 description: 
 keywords: 
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://jamilakhtar.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
+#url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: • Over 12 years of combined experience in R&D, software development, software quality, customer support, project management, and people management. • Worked on the variety of platforms like desktop, web, mobile, and cloud, in small and large scrum teams distributed worldwide and completed more than 16 projects in different roles. • Big data analytics and data science enthusiast; completed around 50 online courses in the past few years including Big Data Specialization by the University of California on Coursera and Data Scientist with Python track on DataCamp and delivered 5 critical projects. • Diligent project manager having a Masters in Engineering Management, plus specialization in Software Product Management by the University of Alberta on Coursera with extensive industry experience in managing multiple projects. • More than six years of people management experience that includes hiring; training; mentoring; performance evaluation and appraisals.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
